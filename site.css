@@ -1,0 +1,60 @@
+body{
+    background-color: #333333;
+}
+.left-col{
+    background-color: #333333;
+    color: #fff;
+    padding: 30px;
+}
+
+img.img-circle{
+    height: 250px;
+}
+
+.quote{
+    font-size: 14px;
+}
+
+.right-col{
+    padding: 30px;
+    background-color: #fff;
+}
+
+.sectionTitle{
+    background: #3D72A4;
+    height: 40px;
+    width: 200px;
+    color: #fff;
+    margin-left: -30px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.sectionContent{
+    margin-left: 30px;
+    font-size: 1.8em;
+    padding-top: 2px;
+}
+
+.job{
+    font-size: 1.5em;
+    font-family: 'Muli', sans-serif;
+    
+}
+
+.jobTitle{
+    font-size: 1.2em;
+    font-weight:bold;
+    font-family: 'Muli', sans-serif;
+    color: #3D72A4;
+}
+
+.jobDesc{
+    margin-left: 15px;
+}
+
+.progress {height: 10px;}
+
+.heading{
+    font-family: 'Oswald', sans-serif;
+}
